@@ -73,3 +73,6 @@ Para comprobar los commits realizados, ejecutar:
 git log --oneline -4
 
 El resultado debe mostrar cuatro commits claros, organizados y atómicos.
+
+## Cambio chikito
+Se crea rama con el comando git switch -c feat/encabezado
